@@ -43,7 +43,7 @@
 
 Все задачи вы будете выполнять в рамках специального [конфигурационного репозитория для разработчика](https://gitlab.com/spicycms.com/dev-SpicyCMS_Chief_Editor).
 
-- [https://gitlab.com/spicycms.com/cms.chiefeditor/issues](Список всех доступных задач) для тестового задания 
+- [Список всех доступных задач](https://gitlab.com/spicycms.com/cms.chiefeditor/issues) для тестового задания 
 
 # Для клиентов
 
